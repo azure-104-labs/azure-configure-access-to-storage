@@ -43,6 +43,8 @@ Azure-Storage-Access-Lab/
 
 ---
 
+ **[0 My Topology](./Images/1.png)**  
+
 ## 📂 Repo Highlights
 
 - 🔒 Storage access methods: SAS, keys, identity-based
